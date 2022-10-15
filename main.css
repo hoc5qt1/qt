@@ -1,0 +1,13 @@
+.iframe {
+    width: 100%;
+    height: calc(100% - 30px);
+}
+.dateNav{
+    text-align: center;
+    height: 30px;
+}
+.footer{
+    margin-top: 10px;
+    font-size: 10px;
+    text-align: right;
+}
